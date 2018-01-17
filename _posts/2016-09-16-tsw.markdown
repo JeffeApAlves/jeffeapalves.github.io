@@ -1,0 +1,34 @@
+---
+title: ":ramen: TSW"
+layout: post
+date: 2018-01-17 12:00
+tag:    
+- TUI
+- ncurses
+- C/C++
+- CLI
+image: https://jeffeapalves/TSW/assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "TUI w Ncurses for Water treatment station."
+category: project
+author: jalves
+externalLink: false
+---
+
+ Project - [TSW](https://jeffeapalves.github.io/TSW/). This is the techinical documentation about this project.
+
+---
+
+What has inside?
+
+- TUI
+- ncurses
+- C/C++
+- CLI
+
+---
+
+[Check it out](http://jeffeapalves.github.io/TSW/) here.
+If you need some help, just [tell me](http://github.com/jeffeapalves/TSW/issues).
