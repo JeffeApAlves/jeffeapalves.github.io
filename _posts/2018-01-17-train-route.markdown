@@ -28,4 +28,4 @@ What has inside?
 ---
 
 [Check it out](http://jeffeapalves.github.io/TrainRoute/) here.
-If you need some help, just [tell me](http://github.com/jeffeapalves/gtracker/issues).
+If you need some help, just [tell me](http://github.com/jeffeapalves/TrainsRoute/issues).
