@@ -1,5 +1,5 @@
 ---
-title: ":ramen: GTRACKER"
+title: ":ramen: gtracker"
 layout: post
 date: 2018-01-17 12:00
 tag:    
@@ -13,6 +13,10 @@ tag:
 - C/C++
 - RTOS
 - gmap.net
+- Channel
+- Reddis
+- iot
+- BootStrap
 - OpenSreetMap
 image: https://jeffeapalves/gtracker/assets/images/jekyll-logo-light-solid.png
 headerImage: true
