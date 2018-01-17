@@ -1,5 +1,5 @@
 ---
-title: ":ramen: RB3_HelloWOrld"
+title: ":ramen: RB3 HelloWorld"
 layout: post
 date: 2018-01-17 12:00
 tag:    
@@ -17,7 +17,7 @@ author: jalves
 externalLink: false
 ---
 
-Project - [RB3 HelloWOrld](https://jeffeapalves.github.io/RB3_HelloWOrld/). This is the techinical documentation about this project.
+Project - [RB3 HelloWorld](https://jeffeapalves.github.io/RB3_HelloWOrld/). This is the techinical documentation about this project.
 
 ---
 
