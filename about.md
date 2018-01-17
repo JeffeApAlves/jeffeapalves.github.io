@@ -1,18 +1,36 @@
 ---
-layout: page
 title: About
-permalink: /about/
+layout: page
 ---
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+knowledge and experience in the design and development of products with embedded
+systems composed of hardware, firmware and software and also programming using structured languages, OOP or
+Assembler.
+I worked for 19 years in automotive aftermarket, with 14 years in product engineering for vehicle diagnostics. I developed
+hardware (HW), software’s (SW) and firmware’s (FW) and also did the integration of the systems.
+The systems had analog interfaces with sample acquisition speeds of 20MSPS and processors (DSP) for mathematical
+processing of the signals and a multicore architecture integrated through communication SPI Bus.
+Protocols development using RS 485 or IEEE 802.15.4 as a physical layer in a network with star topology.
+I developed the full stack diagnostic application. Participation in distributed, multidisciplinary
+and multicultural development environments.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## Skills
+
+* Automotive
+* Python
+* C/C++
+* Java
+* RTOS
+* Linux
+* Windows
 
 
-[jekyll-organization]: https://github.com/jekyll
+## Projects
+
+<ul>
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
