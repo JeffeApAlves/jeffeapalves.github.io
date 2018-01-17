@@ -16,7 +16,6 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/open?id=0B1Y36ILbPc_-ZXFIbkF1b1FhcEU
 
-#url: https://koppl.in/indigo
 url: https://jeffeapalves.github.io
 
 permalink: /:title/

@@ -1,19 +1,10 @@
 ---
-title: ":ramen: gtracker"
+title: ":ramen: TrainRoute"
 layout: post
 date: 2018-01-17 12:00
 tag:    
-- django
-- rabbitmq
-- ESP32
-- Arm
-- C#
-- Python
-- SUMO
-- C/C++
-- RTOS
-- gmap.net
-- OpenSreetMap
+- Java
+- regex
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
@@ -31,19 +22,9 @@ externalLink: false
 
 What has inside?
 
-- django
-- rabbitmq
-- ESP32
-- Arm
-- C#
-- Python
-- [SUMO](http://www.sumo.dlr.de/userdoc/Downloads.html)
-- C/C++
-- RTOS
-- [gmap](https://greatmaps.codeplex.com/)
-- [OpenSreetMap](https://www.openstreetmap.org/)
-
+- Java
+- regex
 ---
 
-[Check it out](http://jeffeapalves.github.io/indigo/) here.
+[Check it out](http://jeffeapalves.github.io/TrainRoute/) here.
 If you need some help, just [tell me](http://github.com/jeffeapalves/gtracker/issues).
