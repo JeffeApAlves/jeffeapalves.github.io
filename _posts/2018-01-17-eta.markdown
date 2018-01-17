@@ -16,7 +16,6 @@ author: jalves
 externalLink: false
 ---
 
-
  Project - [ETA](https://jeffeapalves.github.io/ETA/). This is the techinical documentation about this project.
 
 ---
