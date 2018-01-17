@@ -16,7 +16,7 @@ externalLink: false
 ---
 
 
- Project - [TrainRoute](https://jeffeapalves.github.io/TrainRoute/). This is the techinical documentation about this project.
+Project - [TrainRoute](https://jeffeapalves.github.io/TrainRoute/). This is the techinical documentation about this project.
 
 ---
 

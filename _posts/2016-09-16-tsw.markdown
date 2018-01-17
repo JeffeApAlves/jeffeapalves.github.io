@@ -17,7 +17,7 @@ author: jalves
 externalLink: false
 ---
 
- Project - [TSW](https://jeffeapalves.github.io/TSW/). This is the techinical documentation about this project.
+Project - [TSW](https://jeffeapalves.github.io/TSW/). This is the techinical documentation about this project.
 
 ---
 
