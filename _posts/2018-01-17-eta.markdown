@@ -25,7 +25,7 @@ externalLink: false
 ---
 
 
- Project - [Gtracker](https://jeffeapalves.github.io/eta/). This is the techinical documentation about this project.
+ Project - [ETA](https://jeffeapalves.github.io/eta/). This is the techinical documentation about this project.
 
 ---
 
