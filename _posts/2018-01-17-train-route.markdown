@@ -1,5 +1,5 @@
 ---
-title: ":ramen: TrainRoute"
+title: ":ramen: TRAINROUTE"
 layout: post
 date: 2018-01-17 12:00
 tag:    
