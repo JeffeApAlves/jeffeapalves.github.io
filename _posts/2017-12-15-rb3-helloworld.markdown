@@ -17,7 +17,7 @@ author: jalves
 externalLink: false
 ---
 
-Project - [RB3 HelloWorld](https://jeffeapalves.github.io/RB3_HelloWOrld/). This is the techinical documentation about this project.
+Project - [RB3 HelloWorld](https://jeffeapalves.github.io/RB3_HelloWorld/). This is the techinical documentation about this project.
 
 ---
 
@@ -30,5 +30,5 @@ What has inside?
 
 ---
 
-[Check it out](http://jeffeapalves.github.io/RB3_HelloWOrld/) here.
-If you need some help, just [tell me](http://github.com/jeffeapalves/RB3_HelloWOrld/issues).
+[Check it out](http://jeffeapalves.github.io/RB3_HelloWorld/) here.
+If you need some help, just [tell me](http://github.com/jeffeapalves/RB3_HelloWorld/issues).
