@@ -26,8 +26,6 @@ and multicultural development environments.
 * Windows
 
 
-<!---->
-<ul id="ember4883" class="pv-featured-skills-list pv-profile-section__section-info section-info pv-featured-skills-list--no-highlights ember-view">  <li id="ember4891" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -35,12 +33,8 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">OOP</span>
   </div>
-
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember4905" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -49,10 +43,8 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">UML</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember4909" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -61,10 +53,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">C++</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember4913" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -73,10 +62,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Real Time Operating System</span>
   </div>
 </div>
-<!----></div>
-
-<!----></li>
-</ul>
 
 
 <div class="pv-skill-entity__header">
@@ -86,10 +71,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">PDCA</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5163" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -98,10 +80,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">KPI Reports</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5167" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -110,10 +89,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">PMI</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5171" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -122,10 +98,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Embedded Systems</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5175" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -134,10 +107,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">subversion</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5179" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -146,10 +116,8 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">MS Access</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5183" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -158,10 +126,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">MS Project</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5187" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -170,10 +135,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Desenho técnico</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5191" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -182,10 +144,8 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Databases</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5195" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -194,10 +154,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Master Data Management</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5199" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -206,10 +163,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">C++ Builder</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5203" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -218,10 +172,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">VisualDSP++</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5207" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -230,10 +181,8 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Microchip PIC</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5211" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -242,10 +191,8 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">NetBeans</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5215" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -254,10 +201,9 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Eclipse</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5219" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -266,10 +212,8 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">LabVIEW</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5223" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -278,10 +222,8 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Java</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5227" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -290,10 +232,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Assembly Language</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5231" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -302,10 +241,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Software Modeling</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5235" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -314,10 +250,7 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Automotive Aftermarket</span>
   </div>
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5239" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -327,10 +260,8 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5243" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -340,10 +271,8 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5247" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -353,10 +282,8 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5251" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -366,10 +293,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5255" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -379,10 +303,8 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5259" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -392,10 +314,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5263" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -405,10 +324,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5267" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -418,10 +334,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5271" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -431,10 +344,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5275" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -444,10 +354,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5279" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -457,10 +364,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5283" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -470,10 +374,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5287" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -483,10 +384,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5291" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -496,10 +394,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5295" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -509,10 +404,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5299" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -522,10 +414,8 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5303" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
+
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -535,10 +425,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5307" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -548,10 +435,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5311" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -561,10 +445,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5315" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -574,10 +455,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5319" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -587,10 +465,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5323" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -600,10 +475,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5327" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -613,10 +485,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5331" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -626,10 +495,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5335" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
@@ -639,10 +505,7 @@ and multicultural development environments.
   </div>
 
 </div>
-<!----></div>
 
-<!----></li>
-  <li id="ember5339" class="pv-skill-entity--featured pb5 pv-skill-entity relative ember-view">
 
 <div class="pv-skill-entity__header">
   <div class="tooltip-container">
