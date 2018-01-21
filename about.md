@@ -18,64 +18,7 @@ and multicultural development environments.
 
 ## Skills
 
-* OOP
-* UML
-* C/C++
-* Real Time Operating System
-* PDCA
-* KPI Reports
-* PMI
-* Embedded Systems
-* Linux
-* subversion/git
-* Markdown
-* Database
-* C++ Builder
-* VisualDSP++
-* Microchip PIC
-* Eclipse
-* LabVIEW
-* Java
-* Assembly Language
-* Software Modeling
-* Software Development
-* Firmware Development
-* Hardware Development
-* Signal Processing
-* Analog Signal Processing
-* Analog Circuit Design
-* Product Development
-* Master Data Management
-* BOM management
-* Project Management
-* Wireless Networking
-* Processes Development
-* Digital Circuit Design
-* Microprocessors
-* Microcontrollers
-* Digital Signal Processors
-* Transducers
-* Communication Protocols
-* Automotive Aftermarket
-* Automotive Industry
-* Engineering
-* Product Development
-* PLC Ladder Logic
-* Jenkins
-* Python
-* jekyll
-* html
-* Flask
-* django
-* websockets
-* MS Access
-* MS Project
-* Techinical drawing
-* Windows
-* SketchUp
-
-
-### Embedded System
+### Embedded System 
 * Real Time Operating System
 * Microchip PIC
 * Firmware Development
@@ -130,7 +73,6 @@ and multicultural development environments.
 * Automotive Industry
 
 ### Operation System/Tools
-
 * Linux
 * Windows
 * SketchUp
@@ -142,3 +84,22 @@ and multicultural development environments.
 * VisualDSP++
 * Eclipse
 * LabVIEW
+
+
+|Embedded System|Software Development|
+|---------------|--------------------| 
+|* Real Time Operating System|*OOP|
+|* Microchip PIC|* UML|
+|* Firmware Development|* Database|
+|* Hardware Development|* Software Modeling|
+|* Signal Processing
+|* Analog Signal Processing
+|* Analog Circuit Design
+|* Wireless Networking
+|* Digital Circuit Design
+|* Microprocessors
+|* Microcontrollers
+|* Digital Signal Processors
+|* Transducers
+|* Communication Protocols
+
