@@ -18,11 +18,10 @@ and multicultural development environments.
 
 ## Skills
 
-* Automotive
+* Markdown
 * Python
-* C/C++
-* Java
-* RTOS
+* Flask
+* websockets
 * Linux
 * Windows
 
@@ -37,9 +36,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">OOP</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    OOP
-  </div>
 </div>
 <!----></div>
 
@@ -51,10 +47,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">UML</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    UML
   </div>
 </div>
 <!----></div>
@@ -68,10 +60,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">C++</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    C++
-  </div>
 </div>
 <!----></div>
 
@@ -83,10 +71,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Real Time Operating System</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Real Time Operating System
   </div>
 </div>
 <!----></div>
@@ -101,10 +85,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">PDCA</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    PDCA
-  </div>
 </div>
 <!----></div>
 
@@ -116,10 +96,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">KPI Reports</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    KPI Reports
   </div>
 </div>
 <!----></div>
@@ -133,10 +109,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">PMI</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    PMI
-  </div>
 </div>
 <!----></div>
 
@@ -148,10 +120,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Embedded Systems</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Embedded Systems
   </div>
 </div>
 <!----></div>
@@ -165,10 +133,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">subversion</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    subversion
-  </div>
 </div>
 <!----></div>
 
@@ -180,10 +144,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">MS Access</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    MS Access
   </div>
 </div>
 <!----></div>
@@ -197,10 +157,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">MS Project</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    MS Project
-  </div>
 </div>
 <!----></div>
 
@@ -212,10 +168,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Desenho técnico</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Desenho técnico
   </div>
 </div>
 <!----></div>
@@ -229,10 +181,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Databases</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Databases
-  </div>
 </div>
 <!----></div>
 
@@ -244,10 +192,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Master Data Management</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Master Data Management
   </div>
 </div>
 <!----></div>
@@ -261,10 +205,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">C++ Builder</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    C++ Builder
-  </div>
 </div>
 <!----></div>
 
@@ -276,10 +216,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">VisualDSP++</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    VisualDSP++
   </div>
 </div>
 <!----></div>
@@ -293,10 +229,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Microchip PIC</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Microchip PIC
-  </div>
 </div>
 <!----></div>
 
@@ -308,10 +240,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">NetBeans</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    NetBeans
   </div>
 </div>
 <!----></div>
@@ -325,10 +253,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Eclipse</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Eclipse
-  </div>
 </div>
 <!----></div>
 
@@ -340,10 +264,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">LabVIEW</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    LabVIEW
   </div>
 </div>
 <!----></div>
@@ -357,10 +277,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Java</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Java
-  </div>
 </div>
 <!----></div>
 
@@ -372,10 +288,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Assembly Language</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Assembly Language
   </div>
 </div>
 <!----></div>
@@ -389,10 +301,6 @@ and multicultural development environments.
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Software Modeling</span>
   </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Software Modeling
-  </div>
 </div>
 <!----></div>
 
@@ -404,10 +312,6 @@ and multicultural development environments.
   
   <div class="pv-skill-entity__pill-contents static-pill">
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Automotive Aftermarket</span>
-  </div>
-
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Automotive Aftermarket
   </div>
 </div>
 <!----></div>
@@ -422,9 +326,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Software Development</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Software Development
-  </div>
 </div>
 <!----></div>
 
@@ -438,9 +339,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Firmware Development</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Firmware Development
-  </div>
 </div>
 <!----></div>
 
@@ -454,9 +352,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Hardware Development</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Hardware Development
-  </div>
 </div>
 <!----></div>
 
@@ -470,9 +365,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Signal Processing</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Signal Processing
-  </div>
 </div>
 <!----></div>
 
@@ -486,9 +378,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Analog Signal Processing</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Analog Signal Processing
-  </div>
 </div>
 <!----></div>
 
@@ -502,9 +391,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Analog Circuit Design</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Analog Circuit Design
-  </div>
 </div>
 <!----></div>
 
@@ -518,9 +404,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Product Development</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Product Development
-  </div>
 </div>
 <!----></div>
 
@@ -534,9 +417,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">BOM management</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    BOM management
-  </div>
 </div>
 <!----></div>
 
@@ -550,9 +430,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Project Management</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Project Management
-  </div>
 </div>
 <!----></div>
 
@@ -566,9 +443,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Wireless Networking</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Wireless Networking
-  </div>
 </div>
 <!----></div>
 
@@ -582,9 +456,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Processes Development</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Processes Development
-  </div>
 </div>
 <!----></div>
 
@@ -598,9 +469,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Digital Circuit Design</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Digital Circuit Design
-  </div>
 </div>
 <!----></div>
 
@@ -614,9 +482,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Microprocessors</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Microprocessors
-  </div>
 </div>
 <!----></div>
 
@@ -630,9 +495,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Microcontrollers</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Microcontrollers
-  </div>
 </div>
 <!----></div>
 
@@ -646,9 +508,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Digital Signal Processors</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Digital Signal Processors
-  </div>
 </div>
 <!----></div>
 
@@ -662,9 +521,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Transducers</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Transducers
-  </div>
 </div>
 <!----></div>
 
@@ -678,9 +534,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Communication Protocols</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Communication Protocols
-  </div>
 </div>
 <!----></div>
 
@@ -694,9 +547,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">C</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    C
-  </div>
 </div>
 <!----></div>
 
@@ -710,9 +560,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">SketchUp</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    SketchUp
-  </div>
 </div>
 <!----></div>
 
@@ -726,9 +573,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Firmware</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Firmware
-  </div>
 </div>
 <!----></div>
 
@@ -742,9 +586,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Automotive</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Automotive
-  </div>
 </div>
 <!----></div>
 
@@ -758,9 +599,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Engineering</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Engineering
-  </div>
 </div>
 <!----></div>
 
@@ -774,9 +612,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Indústria automobilística</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Indústria automobilística
-  </div>
 </div>
 <!----></div>
 
@@ -790,9 +625,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Desenvolvimento de produtos</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Desenvolvimento de produtos
-  </div>
 </div>
 <!----></div>
 
@@ -806,9 +638,6 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">PLC Ladder Logic</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    PLC Ladder Logic
-  </div>
 </div>
 <!----></div>
 
@@ -822,7 +651,5 @@ and multicultural development environments.
     <span class="pv-skill-entity__skill-name truncate Sans-15px-black-85%-semibold inline-block">Jenkins</span>
   </div>
 
-  <div role="tooltip" id="pv-skill-entity-name-tooltip" class="tooltip">
-    Jenkins
   </div>
 </div>
