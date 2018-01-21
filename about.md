@@ -86,20 +86,20 @@ and multicultural development environments.
 * LabVIEW
 
 
-|Embedded System|Software Development|
-|---------------|--------------------| 
-|* Real Time Operating System|*OOP|
-|* Microchip PIC|* UML|
-|* Firmware Development|* Database|
-|* Hardware Development|* Software Modeling|
-|* Signal Processing
-|* Analog Signal Processing
-|* Analog Circuit Design
-|* Wireless Networking
-|* Digital Circuit Design
-|* Microprocessors
-|* Microcontrollers
-|* Digital Signal Processors
-|* Transducers
-|* Communication Protocols
+Embedded System|Software Development|
+:---|:---| 
+Real Time Operating System|OOP|
+Microchip PIC|UML|
+Firmware Development|Database|
+Hardware Development|Software Modeling|
+Signal Processing
+Analog Signal Processing
+Analog Circuit Design
+Wireless Networking
+Digital Circuit Design
+Microprocessors
+Microcontrollers
+Digital Signal Processors
+Transducers
+Communication Protocols
 
