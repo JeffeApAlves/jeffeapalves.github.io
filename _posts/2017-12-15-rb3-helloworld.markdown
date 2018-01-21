@@ -21,13 +21,6 @@ Project - [RB3 HelloWorld](https://jeffeapalves.github.io/RB3_HelloWorld/). This
 
 ---
 
-What has inside?
-
-- TUI
-- ncurses
-- C/C++
-- CLI
-
 ---
 
 [Check it out](http://jeffeapalves.github.io/RB3_HelloWorld/) here.

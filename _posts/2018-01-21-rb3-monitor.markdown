@@ -15,16 +15,15 @@ hidden: true # don't count this post in blog pagination
 description: "Webserver utilizando Flask em raspberry."
 category: project
 author: jalves
-externalLink: "https://jeffeapalves.github.io/RB3_Monitor/"
+externalLink: "https://jeffeapalves.github.io/RB3_Monitor"
 
 ---
 
-#Project - [ETA](https://jeffeapalves.github.io/ETA/). This is the techinical documentation about this project.
+Project - [RB3_Monitor](https://jeffeapalves.github.io/RB3_Monitor/). This is the techinical documentation about this project.
 
 ---
 
-
 ---
 
-#[Check it out](http://jeffeapalves.github.io/ETA/) here.
-#If you need some help, just [tell me](http://github.com/jeffeapalves/ETA/issues).
+[Check it out](https://jeffeapalves.github.io/RB3_Monitor/) here.
+If you need some help, just [tell me](http://github.com/jeffeapalves/RB3_Monitor/issues).

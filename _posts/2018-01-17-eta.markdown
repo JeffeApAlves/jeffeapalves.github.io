@@ -21,12 +21,6 @@ Project - [ETA](https://jeffeapalves.github.io/ETA/). This is the techinical doc
 
 ---
 
-What has inside?
-
-- TUI
-- ncurses
-- C/C++
-- CLI
 
 ---
 

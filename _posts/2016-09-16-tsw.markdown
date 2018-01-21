@@ -21,12 +21,6 @@ Project - [TSW](https://jeffeapalves.github.io/TSW/). This is the techinical doc
 
 ---
 
-What has inside?
-
-- TUI
-- ncurses
-- C/C++
-- CLI
 
 ---
 

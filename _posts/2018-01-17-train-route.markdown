@@ -20,11 +20,6 @@ Project - [TrainRoute](https://jeffeapalves.github.io/TrainRoute/). This is the 
 
 ---
 
-What has inside?
-
-- Java
-- regex
-
 ---
 
 [Check it out](http://jeffeapalves.github.io/TrainRoute/) here.
