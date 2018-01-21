@@ -27,12 +27,9 @@ and multicultural development environments.
 * PMI
 * Embedded Systems
 * Linux
-* subversion
-* MS Access
-* MS Project
+* subversion/git
 * Markdown
 * Database
-* Master Data Management
 * C++ Builder
 * VisualDSP++
 * Microchip PIC
@@ -41,7 +38,6 @@ and multicultural development environments.
 * Java
 * Assembly Language
 * Software Modeling
-* Automotive Aftermarket
 * Software Development
 * Firmware Development
 * Hardware Development
@@ -49,6 +45,7 @@ and multicultural development environments.
 * Analog Signal Processing
 * Analog Circuit Design
 * Product Development
+* Master Data Management
 * BOM management
 * Project Management
 * Wireless Networking
@@ -60,14 +57,20 @@ and multicultural development environments.
 * Transducers
 * Communication Protocols
 * Firmware
+* Automotive Aftermarket
 * Automotive Industry
 * Engineering
 * Product Development
 * PLC Ladder Logic
 * Jenkins
 * Python
+* jekyll
+* html
 * Flask
+* django
 * websockets
+* MS Access
+* MS Project
 * Techinical drawing
 * Windows
 * SketchUp
