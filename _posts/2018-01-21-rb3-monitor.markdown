@@ -15,8 +15,8 @@ hidden: true # don't count this post in blog pagination
 description: "Webserver utilizando Flask em raspberry."
 category: project
 author: jalves
-externalLink: true
-external_url: "http://jeffeapalves.github.io/RB3_monitor"
+externalLink: "https://jeffeapalves.github.io/RB3_Monitor/"
+
 ---
 
 #Project - [ETA](https://jeffeapalves.github.io/ETA/). This is the techinical documentation about this project.
