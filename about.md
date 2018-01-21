@@ -18,25 +18,20 @@ and multicultural development environments.
 
 ## Skills
 
-* Markdown
-* Python
-* Flask
-* websockets
-* Linux
-* Windows
 * OOP
 * UML
-* C++
+* C/C++
 * Real Time Operating System
 * PDCA
 * KPI Reports
 * PMI
 * Embedded Systems
+* Linux
 * subversion
 * MS Access
 * MS Project
-* Desenho técnico
-* Databases
+* Markdown
+* Database
 * Master Data Management
 * C++ Builder
 * VisualDSP++
@@ -64,16 +59,15 @@ and multicultural development environments.
 * Digital Signal Processors
 * Transducers
 * Communication Protocols
-* C
-* SketchUp
 * Firmware
-* Automotive
+* Automotive Industry
 * Engineering
-* Indústria automobilística
-* Desenvolvimento de produtos
+* Product Development
 * PLC Ladder Logic
 * Jenkins
-
-
-
-
+* Python
+* Flask
+* websockets
+* Techinical drawing
+* Windows
+* SketchUp
