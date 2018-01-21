@@ -1,0 +1,30 @@
+---
+title: ":ramen: RB3 Monitor"
+layout: post
+date: 2018-01-21 12:00
+tag:    
+- Flask
+- raspberry
+- python
+- sockets
+- thingspeak
+image: https://jeffeapalves/ETA/assets/images/jekyll-logo-light-solid.png
+headerImage: true
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Webserver utilizando Flask em raspberry."
+category: project
+author: jalves
+externalLink: true
+external_url: "http://jeffeapalves.github.io/RB3_monitor"
+---
+
+#Project - [ETA](https://jeffeapalves.github.io/ETA/). This is the techinical documentation about this project.
+
+---
+
+
+---
+
+#[Check it out](http://jeffeapalves.github.io/ETA/) here.
+#If you need some help, just [tell me](http://github.com/jeffeapalves/ETA/issues).
