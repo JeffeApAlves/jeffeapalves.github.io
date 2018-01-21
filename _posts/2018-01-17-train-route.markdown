@@ -12,7 +12,7 @@ hidden: true # don't count this post in blog pagination
 description: "Study about configuration file using regex."
 category: project
 author: jalves
-externalLink: false
+externalLink: "https://jeffeapalves.github.io/TrainRoute"
 ---
 
 

@@ -14,7 +14,7 @@ hidden: true # don't count this post in blog pagination
 description: "TUI w Ncurses for Water treatment station."
 category: project
 author: jalves
-externalLink: false
+externalLink: "https://jeffeapalves.github.io/TSW"
 ---
 
 Project - [TSW](https://jeffeapalves.github.io/TSW/). This is the techinical documentation about this project.

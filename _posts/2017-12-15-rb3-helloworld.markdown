@@ -14,7 +14,7 @@ hidden: true # don't count this post in blog pagination
 description: "TUI w Ncurses for Water treatment station."
 category: project
 author: jalves
-externalLink: false
+externalLink: "https://jeffeapalves.github.io/RB3_HelloWorld"
 ---
 
 Project - [RB3 HelloWorld](https://jeffeapalves.github.io/RB3_HelloWorld/). This is the techinical documentation about this project.

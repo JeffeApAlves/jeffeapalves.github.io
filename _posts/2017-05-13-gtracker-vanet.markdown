@@ -25,7 +25,7 @@ hidden: true # don't count this post in blog pagination
 description: "Study about vanet."
 category: project
 author: jalves
-externalLink: false
+externalLink: "https://jeffeapalves.github.io/gtracker"
 ---
 
 Project - [Gtracker](https://jeffeapalves.github.io/gtracker/). This is the techinical documentation about this project.
