@@ -56,7 +56,6 @@ and multicultural development environments.
 * Digital Signal Processors
 * Transducers
 * Communication Protocols
-* Firmware
 * Automotive Aftermarket
 * Automotive Industry
 * Engineering
@@ -74,3 +73,72 @@ and multicultural development environments.
 * Techinical drawing
 * Windows
 * SketchUp
+
+
+### Embedded System
+* Real Time Operating System
+* Microchip PIC
+* Firmware Development
+* Hardware Development
+* Signal Processing
+* Analog Signal Processing
+* Analog Circuit Design
+* Wireless Networking
+* Digital Circuit Design
+* Microprocessors
+* Microcontrollers
+* Digital Signal Processors
+* Transducers
+* Communication Protocols
+
+### Software Development 
+* OOP
+* UML
+* Database
+* Software Modeling
+
+### web
+* jekyll
+* html
+* Flask
+* django
+* websockets
+
+### Programing Languages
+* Python
+* C/C++
+* Markdown
+* Java
+* Assembly Language
+* PLC Ladder Logic
+* html
+
+### Engineering
+* Techinical drawing
+* PDCA
+* KPI Reports
+* Product Development
+* Master Data Management
+* BOM management
+* Project Management
+* Processes Development
+* Product Development
+
+### Business
+* PMI
+* Automotive Aftermarket
+* Automotive Industry
+
+### Operation System/Tools
+
+* Linux
+* Windows
+* SketchUp
+* MS Access
+* MS Project
+* Jenkins
+* subversion/git
+* C++ Builder
+* VisualDSP++
+* Eclipse
+* LabVIEW
