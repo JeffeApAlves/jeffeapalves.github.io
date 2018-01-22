@@ -81,6 +81,7 @@ Linux
 , Eclipse
 , Doxygen
 , LabVIEW
+, click (pacote Python to CLI)
 .
 ### Business
 PMI

@@ -8,6 +8,7 @@ tag:
 - iot
 - embedded systems
 star: true
+project: false
 category: blog
 author: jalves
 description: Bem vindos
