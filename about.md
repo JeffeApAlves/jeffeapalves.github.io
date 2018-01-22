@@ -33,7 +33,7 @@ Real Time Operating System
 , Transducers
 , Communication Protocols
 . AMQP/MQTT
-
+.
 ### Programing Languages
 C/C++
 , Python
@@ -42,14 +42,13 @@ C/C++
 , Markdown
 , PLC Ladder Logic
 , javascript
-
-
+.
 ### Software Development 
 OOP
 , UML
 , Database
 , Software Modeling
-
+.
 ### Engineering
 Processes Development
 , Project Management
@@ -60,14 +59,14 @@ Processes Development
 , Master Data Management
 , BOM management
 , Product Development
-
+.
 ### Web
 jekyll
 , Flask
 , django
 , websockets
 , html
-
+.
 ### Operation System/Tools
 Linux
 , Windows
@@ -81,8 +80,9 @@ Linux
 , Eclipse
 , Doxygen
 , LabVIEW
-
+.
 ### Business
 PMI
 , Automotive Aftermarket
 , Automotive Industry
+.
