@@ -7,7 +7,7 @@ tag:
 - sockets
 - database first
 image: https://jeffeapalves/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "TUI w Ncurses for Water treatment station."
@@ -16,12 +16,6 @@ author: jalves
 externalLink: "https://jeffeapalves.github.io/TSW"
 ---
 
-Project - [TSW](https://jeffeapalves.github.io/TSW/). This is the techinical documentation about this project.
+[GH-Page of TSW Project](https://jeffeapalves.github.io/TSW/).
 
----
-
-
----
-
-[Check it out](http://jeffeapalves.github.io/TSW/) here.
 If you need some help, just [tell me](http://github.com/jeffeapalves/TSW/issues).

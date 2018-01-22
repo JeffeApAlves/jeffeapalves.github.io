@@ -6,7 +6,7 @@ tag:
 - Java
 - regex
 image: https:/jeffeapalves/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Study about configuration file using regex."
@@ -16,11 +16,6 @@ externalLink: "https://jeffeapalves.github.io/TrainRoute/"
 ---
 
 
-Project - [TrainRoute](https://jeffeapalves.github.io/TrainRoute/). This is the techinical documentation about this project.
+ [GH-Page of TrainRoute Project](https://jeffeapalves.github.io/TrainRoute/).
 
----
-
----
-
-[Check it out](http://jeffeapalves.github.io/TrainRoute/) here.
 If you need some help, just [tell me](http://github.com/jeffeapalves/TrainsRoute/issues).

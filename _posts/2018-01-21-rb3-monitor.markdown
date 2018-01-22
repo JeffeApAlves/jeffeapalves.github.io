@@ -8,6 +8,7 @@ tag:
 - python
 - sockets
 - thingspeak
+- webserver
 image: https://jeffeapalves/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
@@ -16,14 +17,8 @@ description: "Webserver utilizando Flask em raspberry."
 category: project
 author: jalves
 externalLink: "https://jeffeapalves.github.io/RB3_Monitor"
-
 ---
 
-Project - [RB3_Monitor](https://jeffeapalves.github.io/RB3_Monitor/). This is the techinical documentation about this project.
+[GH-Page of RB3_Monitor Project](https://jeffeapalves.github.io/RB3_Monitor/).
 
----
-
----
-
-[Check it out](https://jeffeapalves.github.io/RB3_Monitor/) here.
 If you need some help, just [tell me](http://github.com/jeffeapalves/RB3_Monitor/issues).
