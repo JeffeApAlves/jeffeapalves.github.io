@@ -1,7 +1,7 @@
 ---
 title: ":ramen: RB3 HelloWorld"
 layout: post
-date: 2018-01-17 12:00
+date: 2017-02-17 12:00
 tag:    
 - TUI
 - ncurses
