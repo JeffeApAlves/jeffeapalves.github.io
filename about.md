@@ -79,6 +79,7 @@ Linux
 , C++ Builder
 , VisualDSP++
 , Eclipse
+, Doxygen
 , LabVIEW
 
 ### Business
