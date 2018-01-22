@@ -5,14 +5,14 @@ date: 2017-05-17 12:00
 tag:    
 - Java
 - regex
-image: https:/jeffeapalves/TrainRoute/assets/images/jekyll-logo-light-solid.png
+image: https:/jeffeapalves/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "Study about configuration file using regex."
 category: project
 author: jalves
-externalLink: "https://jeffeapalves.github.io/TrainRoute"
+externalLink: "https://jeffeapalves.github.io/TrainRoute/"
 ---
 
 

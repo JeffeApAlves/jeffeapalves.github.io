@@ -18,7 +18,7 @@ tag:
 - iot
 - BootStrap
 - OpenSreetMap
-image: https://jeffeapalves/gtracker/assets/images/jekyll-logo-light-solid.png
+image: https://jeffeapalves/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
