@@ -5,8 +5,8 @@ date: 2017-12-01 19:15
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- iot
+- embedded systems
 star: true
 category: blog
 author: jalves

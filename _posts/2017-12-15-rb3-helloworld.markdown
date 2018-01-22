@@ -4,7 +4,6 @@ layout: post
 date: 2017-02-17 12:00
 tag:    
 - TUI
-- ncurses
 - C/C++
 - CLI
 image: https://jeffeapalves/assets/images/jekyll-logo-light-solid.png

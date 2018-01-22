@@ -3,10 +3,9 @@ title: ":ramen: TSW"
 layout: post
 date: 2017-07-14 9:00
 tag:    
-- TUI
-- ncurses
-- C/C++
-- CLI
+- C#
+- sockets
+- database first
 image: https://jeffeapalves/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true

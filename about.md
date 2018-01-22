@@ -34,7 +34,7 @@ Real Time Operating System
 , Communication Protocols
 . AMQP/MQTT
 .
-### Programing Languages
+### Programing Languages / script
 C/C++
 , Python
 , Java
@@ -42,6 +42,7 @@ C/C++
 , Markdown
 , PLC Ladder Logic
 , javascript
+, bash script
 .
 ### Software Development 
 OOP
