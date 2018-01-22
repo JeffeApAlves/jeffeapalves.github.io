@@ -40,8 +40,9 @@ C/C++
 , Java
 , Assembly Language
 , Markdown
-, html
 , PLC Ladder Logic
+, javascript
+
 
 ### Software Development 
 OOP
@@ -62,11 +63,10 @@ Processes Development
 
 ### Web
 jekyll
-, javascript
-, html
 , Flask
 , django
 , websockets
+, html
 
 ### Operation System/Tools
 Linux
