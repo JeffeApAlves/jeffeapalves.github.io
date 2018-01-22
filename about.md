@@ -15,91 +15,73 @@ Protocols development using RS 485 or IEEE 802.15.4 as a physical layer in a net
 I developed the full stack diagnostic application. Participation in distributed, multidisciplinary
 and multicultural development environments.
 
-
 ## Skills
 
 ### Embedded System 
-* Real Time Operating System
-* Microchip PIC
-* Firmware Development
-* Hardware Development
-* Signal Processing
-* Analog Signal Processing
-* Analog Circuit Design
-* Wireless Networking
-* Digital Circuit Design
-* Microprocessors
-* Microcontrollers
-* Digital Signal Processors
-* Transducers
-* Communication Protocols
-
-### Software Development 
-* OOP
-* UML
-* Database
-* Software Modeling
-
-### web
-* jekyll
-* html
-* Flask
-* django
-* websockets
+Real Time Operating System
+, Microchip PIC
+, Firmware Development
+, Hardware Development
+, Signal Processing
+, Analog Signal Processing
+, Analog Circuit Design
+, Wireless Networking
+, Digital Circuit Design
+, Microprocessors
+, Microcontrollers
+, Digital Signal Processors
+, Transducers
+, Communication Protocols
+. AMQP/MQTT
 
 ### Programing Languages
-* Python
-* C/C++
-* Markdown
-* Java
-* Assembly Language
-* PLC Ladder Logic
-* html
+C/C++
+, Python
+, Java
+, Assembly Language
+, Markdown
+, html
+, PLC Ladder Logic
+
+### Software Development 
+OOP
+, UML
+, Database
+, Software Modeling
 
 ### Engineering
-* Techinical drawing
-* PDCA
-* KPI Reports
-* Product Development
-* Master Data Management
-* BOM management
-* Project Management
-* Processes Development
-* Product Development
+Processes Development
+, Project Management
+, Techinical drawing
+, PDCA
+, KPI Reports
+, Product Development
+, Master Data Management
+, BOM management
+, Product Development
 
-### Business
-* PMI
-* Automotive Aftermarket
-* Automotive Industry
+### Web
+jekyll
+, javascript
+, html
+, Flask
+, django
+, websockets
 
 ### Operation System/Tools
-* Linux
-* Windows
-* SketchUp
-* MS Access
-* MS Project
-* Jenkins
-* subversion/git
-* C++ Builder
-* VisualDSP++
-* Eclipse
-* LabVIEW
+Linux
+, Windows
+, SketchUp
+, MS Access
+, MS Project
+, Jenkins
+, subversion/git
+, C++ Builder
+, VisualDSP++
+, Eclipse
+, LabVIEW
 
-
-Embedded System|Software Development|
-:---|:---| 
-Real Time Operating System|OOP|
-Microchip PIC|UML|
-Firmware Development|Database|
-Hardware Development|Software Modeling|
-Signal Processing
-Analog Signal Processing
-Analog Circuit Design
-Wireless Networking
-Digital Circuit Design
-Microprocessors
-Microcontrollers
-Digital Signal Processors
-Transducers
-Communication Protocols
-
+### Business
+PMI
+, Automotive Aftermarket
+, Automotive Industry
